@@ -3,7 +3,7 @@ import img1 from '../assets/Service__picture/2.jpg'
 function Services() {
     return (
    <div>
-     <div className='service' id='services'>
+     <div className='service' id='services' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
     <img src={img1} className="w-100" alt="" />
@@ -21,7 +21,7 @@ function Services() {
     </div>
     {/* 2nd section */}
 
-    <div className='service  service__second'>
+    <div className='service  service__second' data-aos="fade-right" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__empty'>
     </div>
@@ -38,7 +38,7 @@ function Services() {
     </div>
 
 
-    <div className='service'>
+    <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
     <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
@@ -56,7 +56,7 @@ function Services() {
     </div>
     {/* 2nd section */}
 
-    <div className='service  service__second'>
+    <div className='service  service__second' data-aos="fade-right" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__empty'>
     </div>
@@ -73,7 +73,7 @@ function Services() {
     </div>
 
 
-    <div className='service'>
+    <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
     <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
@@ -91,7 +91,7 @@ function Services() {
     </div>
     {/* 2nd section */}
 
-    <div className='service  service__second'>
+    <div className='service  service__second' data-aos="fade-right" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__empty'>
     </div>
@@ -108,7 +108,7 @@ function Services() {
     </div>
 
 
-    <div className='service'>
+    <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
     <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
@@ -126,7 +126,7 @@ function Services() {
     </div>
     {/* 2nd section */}
 
-    <div className='service  service__second'>
+    <div className='service  service__second' data-aos="fade-right" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__empty'>
     </div>
@@ -143,7 +143,7 @@ function Services() {
     </div>
 
 
-    <div className='service'>
+    <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
     <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
@@ -161,7 +161,7 @@ function Services() {
     </div>
     {/* 2nd section */}
 
-    <div className='service  service__second'>
+    <div className='service  service__second' data-aos="fade-right" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__empty'>
     </div>
@@ -179,7 +179,7 @@ function Services() {
 
 
 
-    <div className='service'>
+    <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
     <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
