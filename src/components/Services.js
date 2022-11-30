@@ -1,5 +1,15 @@
 import React from 'react'
-import img1 from '../assets/Service__picture/2.jpg'
+import img1 from '../assets/Service__picture/1.jpg'
+import img2 from '../assets/Service__picture/2.jpg'
+import img3 from '../assets/Service__picture/3.jpg'
+import img4 from '../assets/Service__picture/5.jpg'
+import img5 from '../assets/Service__picture/5.jpg'
+import img6 from '../assets/Service__picture/6.jpg'
+import img7 from '../assets/Service__picture/7.jpg'
+import img8 from '../assets/Service__picture/8.jpg'
+import img9 from '../assets/Service__picture/9.jpg'
+import img10 from '../assets/Service__picture/10.jpg'
+import img11 from '../assets/Service__picture/11.jpg'
 function Services() {
     return (
    <div>
@@ -26,7 +36,7 @@ function Services() {
     <div className='service__empty'>
     </div>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img2} className="w-100" alt="" />
     </div>
     {/* here is the text section */}
     <div className='service__text2'>
@@ -41,7 +51,7 @@ function Services() {
     <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img3} className="w-100" alt="" />
     </div>
     <div className='service__empty'>
         
@@ -61,7 +71,7 @@ function Services() {
     <div className='service__empty'>
     </div>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img4} className="w-100" alt="" />
     </div>
     {/* here is the text section */}
     <div className='service__text2'>
@@ -76,7 +86,7 @@ function Services() {
     <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img5} className="w-100" alt="" />
     </div>
     <div className='service__empty'>
         
@@ -96,7 +106,7 @@ function Services() {
     <div className='service__empty'>
     </div>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img6} className="w-100" alt="" />
     </div>
     {/* here is the text section */}
     <div className='service__text2'>
@@ -111,7 +121,7 @@ function Services() {
     <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img7} className="w-100" alt="" />
     </div>
     <div className='service__empty'>
         
@@ -131,7 +141,7 @@ function Services() {
     <div className='service__empty'>
     </div>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img8} className="w-100" alt="" />
     </div>
     {/* here is the text section */}
     <div className='service__text2'>
@@ -146,7 +156,7 @@ function Services() {
     <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img9} className="w-100" alt="" />
     </div>
     <div className='service__empty'>
         
@@ -166,7 +176,7 @@ function Services() {
     <div className='service__empty'>
     </div>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img10} className="w-100" alt="" />
     </div>
     {/* here is the text section */}
     <div className='service__text2'>
@@ -182,7 +192,7 @@ function Services() {
     <div className='service' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
-    <img src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" className="w-100" alt="" />
+    <img src={img11} className="w-100" alt="" />
     </div>
     <div className='service__empty'>
         
