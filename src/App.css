@@ -202,7 +202,7 @@ text-align: center;
   padding-bottom: 30px;
   font-weight: 200;
   padding-top: 100px;
-  color: black;
+  color: #212135;
 }
 .header__section p{
   padding-top: 30px;
@@ -252,7 +252,7 @@ text-align: center;
               0 5px 5px -5px rgb(81, 81, 81);
 }
 .service__text h3{
-  color: black;
+  color: #212135;
 }
 .line{
   height: 2px; 
@@ -315,7 +315,7 @@ text-align: center;
 .service__text2 h3{
   padding-top: 20px;
   font-weight: 200;
-  color: black;
+  color: #212135;
 }
 .service__text2 p{
   padding-top: 10px;
@@ -365,7 +365,7 @@ text-align: center;
   color: gray;
 }
 .about__text h1{
-  color: black;
+  color: #212135 !important;
 }
 .about__text p{
   color: gray;
