@@ -1,5 +1,7 @@
 import { useRef, useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
+//import logo
+import logo from '../assets/img/logo.png'
 
 export const NavBar = () => {
 
@@ -28,7 +30,7 @@ export const NavBar = () => {
     <button onClick={showNavbar} className="nav-btn">
     <FaBars size={30}  style={{ color: 'red' }} className="nav__icon"/>
     </button>
-    <h3 className="logo">LOGO</h3>
+    <h3 className="logo"><img src={logo}/></h3>
   </header>
    </div>
   )
