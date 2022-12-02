@@ -22,10 +22,10 @@ export const NavBar = () => {
    <div className="">
      <header>
     <nav ref={navRef}>
-      <a href="/#">Home</a>
-      <a href="#about">About me</a>
-      <a href="#services">Services</a>
-      <a href="#contact">Contact</a>
+      <a href="/#" className="hover-underline-animation">Home</a>
+      <a href="#about" className="hover-underline-animation">About me</a>
+      <a href="#services" className="hover-underline-animation">Services</a>
+      <a href="#contact" className="hover-underline-animation">Contact</a>
     </nav>
     <button onClick={showNavbar} className="nav-btn">
     <FaBars size={30}  style={{ color: 'red' }} className="nav__icon"/>
