@@ -23,8 +23,8 @@ export const NavBar = () => {
      <header>
     <nav ref={navRef}>
       <a href="/#" className="hover-underline-animation">Home</a>
-      <a href="#about" className="hover-underline-animation">About me</a>
-      <a href="#services" className="hover-underline-animation">Services</a>
+      <a href="#about" className="hover-underline-animation">About Us</a>
+      <a href="#services" className="hover-underline-animation">Our Services</a>
       <a href="#contact" className="hover-underline-animation">Contact</a>
     </nav>
     <button onClick={showNavbar} className="nav-btn">

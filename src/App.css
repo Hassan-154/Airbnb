@@ -340,6 +340,7 @@ text-align: center;
 .service__text2 p{
   padding-top: 10px;
   color: gray;
+  padding-right: 10px;
 }
 @media only screen and (max-width: 995px) {
   .service__text2{
@@ -403,6 +404,8 @@ text-align: center;
 
 /***start of whatsapp section*/
 .whatsapp__cover{
+  padding-top: 27vh;
+  padding-bottom: 27vh;
   background: linear-gradient(rgba(0, 0, 0, 0.782),rgba(0,0,0,0.711)),
   url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80') no-repeat center / cover;
 }
