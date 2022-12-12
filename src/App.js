@@ -12,6 +12,8 @@ import AboutPage from './components/AboutPage';
 import Services from './components/Services';
 import HeaderSection from './components/HeaderSection';
 import WhatsApp from './components/WhatsApp';
+import AllRight from './components/AllRight';
+import Feature from './components/Feature';
 
 function App() {
 
@@ -25,9 +27,11 @@ function App() {
     <div className="App">
       <NavBar />
       <HeaderSection/>
+      <Feature/>
       <AboutPage/>
       <Services/>
       <WhatsApp/>
+      <AllRight/>
     </div>
   );
 }

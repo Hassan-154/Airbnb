@@ -12,7 +12,10 @@ import img10 from '../assets/Service__picture/10.jpg'
 import img11 from '../assets/Service__picture/11.jpg'
 function Services() {
     return (
-   <div>
+   <div className='service__back'>
+   {/* service heading */}
+   <h2>OUR SERVICES</h2>
+   <div className="service__top__line"></div>
      <div className='service' id='services' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
     <div className='service__pic'>
