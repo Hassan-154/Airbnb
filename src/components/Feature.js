@@ -3,7 +3,7 @@ import '../feature.css'
 //import icons
 import icon1 from '../assets/img/1.webp'
 import icon2 from '../assets/img/2.png'
-import icon3 from '../assets/img/3.webp'
+import icon3 from '../assets/img/2.webp'
 function Feature() {
   return (
     <div className='feature'>

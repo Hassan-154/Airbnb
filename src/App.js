@@ -27,9 +27,9 @@ function App() {
     <div className="App">
       <NavBar />
       <HeaderSection/>
-      <Feature/>
       <AboutPage/>
       <Services/>
+      <Feature/>
       <WhatsApp/>
       <AllRight/>
     </div>
