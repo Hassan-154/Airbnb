@@ -24,12 +24,14 @@ function App() {
   },);
 
   return (
-    <div className="App">
-      <NavBar />
+    <div className="">
+    <div className='app'>
+    <NavBar />
       <HeaderSection/>
       <AboutPage/>
       <Services/>
       <Feature/>
+    </div>
       <WhatsApp/>
       <AllRight/>
     </div>

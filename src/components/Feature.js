@@ -8,7 +8,7 @@ function Feature() {
   return (
     <div className='feature'>
     {/* feature heading */}
-    <h1>We feature your property on multiple short and medium term booking channels</h1>
+    <h1>We list and manage your property on multiple booking platforms</h1>
     {/* feature icons grid */}
     <div className='feature__logo__collection container'>
         {/* icon 1 */}

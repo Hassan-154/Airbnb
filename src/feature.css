@@ -22,6 +22,11 @@
 }
 /* to make it responsive */
 @media only screen and (max-width: 990px) {
+    .feature{
+        padding-top: 16.5vh;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
     .feature__logo__collection{
         max-width: 600px;
     }
@@ -30,6 +35,7 @@
     .feature h1{
         padding-bottom: 25px;
         font-size: 24px;
+
     }
     .feature__logo__collection{
         flex-direction: column;

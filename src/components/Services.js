@@ -2,7 +2,7 @@ import React from 'react'
 import img1 from '../assets/Service__picture/1.jpg'
 import img2 from '../assets/Service__picture/2.jpg'
 import img3 from '../assets/Service__picture/3.jpg'
-import img4 from '../assets/Service__picture/5.jpg'
+import img4 from '../assets/Service__picture/4.jpg'
 import img5 from '../assets/Service__picture/5.jpg'
 import img6 from '../assets/Service__picture/6.jpg'
 import img7 from '../assets/Service__picture/7.jpg'
@@ -14,7 +14,7 @@ function Services() {
     return (
    <div className='service__back'>
    {/* service heading */}
-   <h2>OUR SERVICES</h2>
+   <h2>Our Services</h2>
    <div className="service__top__line"></div>
      <div className='service' id='services' data-aos="fade-left" data-aos-duration="800">
         <div id='service' className='service__page container my-5'>
@@ -28,7 +28,7 @@ function Services() {
     <div className='service__text'>
     <div className='line'></div>
     <h3>Listing Creation</h3>
-    <p>Our Team of experts of can list your apartment on multiple platforms like Airbnb, Booking.com and properly manage each of the listing individually.</p>
+    <p>Our Team of experts can list your apartment on multiple platforms like Airbnb, Booking.com and properly manage each of the listing individually.</p>
     </div>
     </div>
     </div>
