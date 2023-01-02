@@ -429,7 +429,7 @@ text-align: center;
 .whatsapp__cover{
   padding-top: 20vh;
   padding-bottom: 15vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.782),rgba(0,0,0,0.711)),
+  background: linear-gradient(rgba(139, 69, 19, 0.5),rgba(139, 69, 19, 0.5)),
   url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80') no-repeat center / cover;
 }
 .whatsapp__cover .img{
